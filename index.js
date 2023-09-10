@@ -21,4 +21,4 @@ app.listen(port,()=>{
     console.log(`Server is runing on port ${port}`);
 })
 
-// it will catch an error because invalid connection string provide you own connection sting
+// it will catch an error because invalid connection string provide your own connection sting
